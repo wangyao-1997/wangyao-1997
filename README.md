@@ -7,5 +7,5 @@
 
 
 - 🙂 list: 
-          1. GA / PSO / Cooke Triplet 整理 
+          1. GA / PSO / Cooke Triplet 整理 //
              ddl: 07.10 / 07.17 / 07.24
